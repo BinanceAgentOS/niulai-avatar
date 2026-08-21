@@ -1,0 +1,9 @@
+interface:
+  display_name: "Niulai Avatar"
+  short_description: "Turn any avatar into a lo-fi Niulai meme"
+  icon_small: "./assets/skill-icon-512.png"
+  icon_large: "./assets/skill-icon.png"
+  brand_color: "#F0B90B"
+  default_prompt: "Use $niulai-avatar to transform my uploaded avatar into a Niulai meme portrait."
+policy:
+  allow_implicit_invocation: true
